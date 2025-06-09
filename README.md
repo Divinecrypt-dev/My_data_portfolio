@@ -2,7 +2,7 @@
 This portfolio is for curating my progress and development in data science and machine learning
 # Data Science Portfolio - Edoja Tega Divine
 
-### 🚀 Live Demo: [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
+### 🚀 Live Demo: (https://divinecrypt-dev.github.io/My_data_portfolio/)
 
 ## About This Project
 
